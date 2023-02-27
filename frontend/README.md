@@ -55,3 +55,5 @@ for google please request for developer test account as this cannot be auto gene
 //     is_premium:true
 //   })
 // }
+
+//Deployed site link ===>> https://smoozepro.netlify.app/browse/38fb50e8-9e12-498f-97c0-ab64a214ffec
